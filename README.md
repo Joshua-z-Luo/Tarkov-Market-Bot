@@ -35,5 +35,10 @@
 ## Usage
 - usage
 
+## Acknowledgements
+
+- This project was made in collaboration with (ethan github)
+
+
 ## Contact
 Created by [@JoshuaLuo](https://github.com/Joshua-z-Luo) - feel free to contact me at jla818@sfu.ca
