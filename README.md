@@ -1,11 +1,9 @@
 # Tarkov Market Bot
 > A Discord bot that monitors the price of the virtual Escape from Tarkov economy
 
-
-<!--  what is it? for what ? and how??  -->
 ## General Information
 
-- this is an app 
+-  
 
 
 ## Features
