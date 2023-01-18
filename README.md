@@ -21,10 +21,15 @@
 
 ## Screenshots
 
-ACTIVITY PAGE
 ![Example screenshot1](./images/screen1.png)
 
 ![Example screenshot1](./images/screen2.png)
+
+![Example screenshot1](./images/screen3.png)
+
+![Example screenshot1](./images/screen4.png)
+
+![Example screenshot1](./images/screen5.png)
 
 
 ## Usage
